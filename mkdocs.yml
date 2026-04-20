@@ -1,0 +1,12 @@
+site_name: Roberto Ponce Paniagua
+site_url: https://github.com/robertoponcepaniagua/TAREA-GITHUB-MKDOCKS/
+
+nav:
+  - Inicio: index.md
+  - Paginas:
+    - Pagina 01: pagina1.md
+    - Pagina 02: pagina2.md
+    - Pagina 03: pagina3.md
+  - Sobre Mi: README.md
+
+theme: readthedocs
