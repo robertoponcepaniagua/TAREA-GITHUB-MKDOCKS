@@ -8,9 +8,9 @@ Markdown es un lenguaje de marcado ligero que permite dar formato al texto (negr
 
 *cursiva*
 
-[ENLACE](url)
+[ENLACE]([url](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fes.pinterest.com%2Fesanchez1218%2Ffotos-bonitas%2F&ved=0CBYQjRxqFwoTCICWwL3r_JMDFQAAAAAdAAAAABAG&opi=89978449))
 
-![Imagen](ruta)
+![Imagen](../imagen.jpeg)
 
 - Lista sin orden
 - item2
